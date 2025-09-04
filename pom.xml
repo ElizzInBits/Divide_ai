@@ -5,13 +5,13 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>com.example</groupId>
-    <artifactId>divide-ai</artifactId>
+    <groupId>com.divideai</groupId>
+    <artifactId>backend-divide-ai</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     
-    <name>Divide AI</name>
-    <description>Projeto Java para desenvolvimento</description>
+    <name>Backend Divide Aí</name>
+    <description>Sistema para divisão de contas e despesas entre grupos</description>
     
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
