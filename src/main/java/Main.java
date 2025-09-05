@@ -4,7 +4,7 @@ import com.divideai.entidades.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== DIVIDE AÍ - SISTEMA DE DIVISÃO DE CONTAS ===");
+        System.out.println("=== DIVIDE AI - SISTEMA DE DIVISAO DE CONTAS ===");
         
         // Serve pra criar usuários
         Usuario joao = new Usuario(1L, "João", "joao@email.com", "11999999999");
