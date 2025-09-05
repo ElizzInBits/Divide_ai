@@ -49,7 +49,5 @@ public class GerenciadorNotificacoes {
         }
     }
     
-    public List<Notificacao> getNotificacoes() {
-        return notificacoes;
-    }
+
 }
