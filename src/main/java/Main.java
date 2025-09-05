@@ -1,5 +1,6 @@
-import com.divideai.entities.*;
 import java.math.BigDecimal;
+
+import com.divideai.entidades.*;
 
 public class Main {
     public static void main(String[] args) {

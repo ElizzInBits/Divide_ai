@@ -1,4 +1,4 @@
-package com.divideai.entities;
+package com.divideai.entidades;
 
 import java.util.Objects;
 

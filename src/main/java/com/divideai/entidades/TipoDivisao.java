@@ -1,4 +1,4 @@
-package com.divideai.entities;
+package com.divideai.entidades;
 
 public enum TipoDivisao {
     IGUAL("Divisão igual entre todos"),

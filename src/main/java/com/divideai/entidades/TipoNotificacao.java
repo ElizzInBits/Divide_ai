@@ -1,4 +1,4 @@
-package com.divideai.entities;
+package com.divideai.entidades;
 
 public enum TipoNotificacao {
     NOVA_DESPESA("Nova despesa adicionada"),
